@@ -1,8 +1,8 @@
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 </head>
-<h1 align="center">Hi 👋, I'm Saiprasaad K</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Saiprasaad Kalyanaraman</h1>
+<h3 align="center">A passionate developer</h3>
 
 - 🌱 I’m currently learning **Angular**
 
