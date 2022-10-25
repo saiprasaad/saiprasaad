@@ -3,11 +3,6 @@
 </head>
 <h1 align="center">Hi 👋, I'm Saiprasaad Kalyanaraman</h1>
 <h3 align="center">A passionate developer</h3>
-
-- 🌱 I’m currently learning **Angular**
-
-- 📫 How to reach me **saiprasaad1999@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saiprasaad-k-365388182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saiprasaad-k-365388182" height="30" width="40" /></a>
