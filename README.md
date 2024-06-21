@@ -80,5 +80,3 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring AI" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiprasaad&show_icons=true&locale=en&layout=compact" alt="saiprasaad" /></p>
-
