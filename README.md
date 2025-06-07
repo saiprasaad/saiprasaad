@@ -70,7 +70,7 @@ GitHub repo visualizer & forecaster using OpenAI embeddings and microservice arc
 
 ## 📫 Let's Connect!
 
-- ✉️ Email: [saiprasaad1999@gmail.com](mailto:saiprasaad1999@gmail.com)  
+- ✉️ [saiprasaad1999@gmail.com](mailto:saiprasaad1999@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saiprasaad)  
 - 🌐 [Portfolio](https://saiprasaad.github.io/portfolio)
 
