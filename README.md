@@ -1,82 +1,79 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-</head>
-<h1 align="center">Hi 👋, I'm Saiprasaad Kalyanaraman</h1>
-<h3 align="center">A passionate Software Developer</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saiprasaad-k-365388182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saiprasaad-k-365388182" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saiprasaad1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="saiprasaad1999" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@saiprasaad1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@saiprasaad1999" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saiprasaad1999/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="saiprasaad1999/profile" height="30" width="40" /></a>
-</p>
+# 👋 Hey there, I'm Saiprasaad Kalyanaraman
 
-<h3 align="left">Languages and Tools:</h3>
+🎯 **Full Stack Developer**
 
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-</p>
+I'm a passionate software engineer with a Master's in Computer Science from Illinois Institute of Technology and 2+ years of experience building scalable, data-driven web and mobile applications. My stack spans across React, Flask, and Flutter.
 
-<h4 align="left">Front End:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="Ajax" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
+---
 
-<h4 align="left">Back End:</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
+## 🧠 About Me
 
-<h4 align="left">Mobile:</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
-</p>
+- 🔭 Currently working at **Afficiency** as a Full Stack Developer delivering web solutions used by **10,000+ users**
+- 📱 Won the **ACM Scarlet Hackathon** by building a cross-platform Flutter app
+- 🧑‍⚖️ Served as a **Judge & Technical Mentor** at **HackMHS X**
+- 🌍 Skilled in building applications across **Web and Mobile applications**
 
-<h4 align="left">Database:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
+---
 
-<h4 align="left">Machine Learning:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="ML Algorithms" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="NLP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Generative AI" width="40" height="40"/>
-</p>
+## 💻 Tech Stack
 
-<h4 align="left">Data Processing and Analysis:</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-</p>
+**Languages:** Java, Python, Dart, SQL, R  
+**Frontend:** React, Angular, TypeScript, HTML, CSS, Bootstrap  
+**Backend:** Flask, Spring Boot, Node.js  
+**Mobile:** Flutter  
+**Database:** MySQL, MongoDB, Redis, PostgreSQL, SQLite  
+**Tools & Cloud:** Docker, AWS, Elasticsearch, Kafka, Git, Figma, Streamlit, Google Cloud, GitHub Actions  
 
-<h4 align="left">Others:</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring AI" width="40" height="40"/>
-</p>
+---
 
+## 🚀 Featured Projects
+
+### 🔍 React Flow Graph Viewer
+Interactive visualizer for complex JSON data using React Flow.  
+> Tech: React, React Flow, Netlify  
+📌 **Live Demo:** [jsonexplorer.netlify.app](https://jsonexplorer.netlify.app)
+
+---
+
+### 🔐 Encryption/Decryption Module
+Built AES-CBC encrypted communication between React and Flask to ensure secure API messaging.  
+> Tech: React, Flask, PyCrypto
+
+---
+
+### 📋 Asana Task Automation
+Automated issue detection & task creation in Asana using Python & Asana API.  
+> Tech: Python, Asana API
+
+---
+
+### 🌍 YouTube Video Translator
+Translates YouTube videos into other languages with voiceover using OpenAI, Whisper, and gTTS.  
+> Tech: Python, Streamlit, Whisper, gTTS, OpenAI, MoviePy
+
+---
+
+### 📊 Repo Vision
+GitHub repo visualizer & forecaster using OpenAI embeddings and microservice architecture.  
+> Tech: Python, Flask, React, Google Cloud, Docker, Elasticsearch
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner** - ACM Scarlet Hackathon (Flutter App)
+- 🥇 **Winner** - Drone Golf Challenge with Robolink CoDrone
+- 🥇 **Winner** - LeetCode Challenge by ACM
+- 🧑‍⚖️ **Judge** - HackMHS X
+
+---
+
+## 📫 Let's Connect!
+
+- ✉️ Email: [saiprasaad1999@gmail.com](mailto:saiprasaad1999@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saiprasaad)  
+- 🌐 [Portfolio](https://saiprasaad.github.io/portfolio)
+
+---
+
+> “Build with clarity, scale with purpose.” — Let's create something impactful together!
