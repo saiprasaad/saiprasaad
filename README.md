@@ -1,79 +1,61 @@
-# 👋 Hey there, I'm Saiprasaad Kalyanaraman
+# Hi, I'm Saiprasaad Kalyanaraman 👋
 
-🎯 **Full Stack Developer**
+**Full-Stack Software Engineer · New York**
 
-I'm a passionate software engineer with a Master's in Computer Science from Illinois Institute of Technology and 2+ years of experience building scalable, data-driven web and mobile applications. My stack spans across React, Flask, and Flutter.
+I build software the AI-driven way, taking web and mobile applications from idea to production, with AI speeding up the work and powering the features people use.
 
----
-
-## 🧠 About Me
-
-- 🔭 Currently working at **Afficiency** as a Full Stack Developer delivering web solutions used by **10,000+ users**
-- 📱 Won the **ACM Scarlet Hackathon** by building a cross-platform Flutter app
-- 🧑‍⚖️ Served as a **Judge & Technical Mentor** at **HackMHS X**
-- 🌍 Skilled in building applications across **Web and Mobile applications**
+🌐 [saiprasaad.com](https://www.saiprasaad.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/saiprasaad/) · ✉️ [saiprasaad1999@gmail.com](mailto:saiprasaad1999@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 🧠 About me
 
-**Languages:** Java, Python, Dart, SQL, R  
-**Frontend:** React, Angular, TypeScript, HTML, CSS, Bootstrap  
-**Backend:** Flask, Spring Boot, Node.js  
-**Mobile:** Flutter  
-**Database:** MySQL, MongoDB, Redis, PostgreSQL, SQLite  
-**Tools & Cloud:** Docker, AWS, Elasticsearch, Kafka, Git, Figma, Streamlit, Google Cloud, GitHub Actions  
+- 💼 Full Stack Developer at **Afficiency**, an insurtech startup, building React front ends and Flask and Spring Boot microservices used by **10,000+ people** on web and mobile
+- 🤖 Using AI to build faster and to power features, from LLM log summaries to dubbed videos and time-series forecasts
+- 🎓 Master of Computer Science, **Illinois Institute of Technology** (GPA 3.7)
+- 🏆 Won the **ACM Scarlet Hackathon** and judged **HackMHS X**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-### 🔍 React Flow Graph Viewer
-Interactive visualizer for complex JSON data using React Flow.  
-> Tech: React, React Flow, Netlify  
-📌 **Live Demo:** [jsonexplorer.netlify.app](https://jsonexplorer.netlify.app)
-
----
-
-### 🔐 Encryption/Decryption Module
-Built AES-CBC encrypted communication between React and Flask to ensure secure API messaging.  
-> Tech: React, Flask, PyCrypto
-
----
-
-### 📋 Asana Task Automation
-Automated issue detection & task creation in Asana using Python & Asana API.  
-> Tech: Python, Asana API
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Monitorly** | A session replay platform built end to end, from a three-line SDK to live replay and Microsoft Teams alerts. It has recorded around 100,000 sessions so far. | [Overview](https://www.saiprasaad.com/#monitorly) |
+| **JSON Explorer** | See JSON as an interactive graph or a fast tree, compare two documents by structure, and convert them to TypeScript, JSON Schema, YAML or CSV, all in the browser. | [Live demo](https://jsonexplorer.netlify.app) · [Code](https://github.com/saiprasaad/JsonExplorer) |
+| **Wordle Clone** | A fast, accessible Wordle with a daily puzzle and unlimited play. It installs like an app, works offline and weighs about 45 KB gzipped. | [Play it](https://saiprasaad.github.io/Wordle-Clone-Web/) · [Code](https://github.com/saiprasaad/Wordle-Clone-Web) |
+| **Repo Vision** | Forecasts GitHub activity for five open-source repositories with an LSTM, Prophet and SARIMAX, across three Dockerized microservices. | [Code](https://github.com/saiprasaad/Repo-Vision) |
+| **AI-Powered Log Summarizer** | Summarizes application logs with a local LLM through Ollama and posts the summaries, anomalies included, to Microsoft Teams. | [Overview](https://www.saiprasaad.com/#ai-log-summarizer) |
+| **YouTube Translator** | Dubs a YouTube video into Spanish or German with Whisper, the OpenAI API and gTTS. | [Code](https://github.com/saiprasaad/YouTube-Translator) |
+| **SaiOS portfolio** | My portfolio as a macOS-style desktop and an iOS-style phone app, with Folio, an AI assistant that answers questions about my work. | [Visit](https://www.saiprasaad.com/) · [Code](https://github.com/saiprasaad/portfolio) |
 
 ---
 
-### 🌍 YouTube Video Translator
-Translates YouTube videos into other languages with voiceover using OpenAI, Whisper, and gTTS.  
-> Tech: Python, Streamlit, Whisper, gTTS, OpenAI, MoviePy
+## 💻 Tech stack
+
+**Languages:** Java, Python, JavaScript, TypeScript, Dart, C, Swift, SQL  
+**Frontend:** React, Angular, HTML, CSS, Bootstrap, Material UI  
+**Backend:** Spring Boot, Flask, Node.js, PHP, REST APIs, microservices, Kafka  
+**Mobile:** Flutter, Android  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase  
+**AI & ML:** Generative AI, LLMs, RAG, NLP, Ollama, OpenAI APIs, Hugging Face, TensorFlow  
+**Cloud & tools:** AWS, Azure, Google Cloud, Docker, Git, GitLab CI/CD, GitHub Actions, Playwright, Jest, Figma
 
 ---
 
-### 📊 Repo Vision
-GitHub repo visualizer & forecaster using OpenAI embeddings and microservice architecture.  
-> Tech: Python, Flask, React, Google Cloud, Docker, Elasticsearch
+## 🏆 Awards
+
+- 🥇 Winner, **ACM Scarlet Hackathon**
+- 🥇 Winner, **LeetCode Challenge** by ACM
+- 🥇 Winner, **Drone Golf Challenge** with Robolink CoDrone
+- 🥇 Winner, **Debugging Contest** by IEEE Computer Society SBC
+- ⭐ **Best Performer of the Month** at Afficiency
+- 🧑‍⚖️ Judge, **HackMHS X** hackathon
+
+## 📜 Certifications
+
+Microsoft Azure AI Fundamentals · Oracle Cloud Infrastructure Foundations Associate · Harvard CS50 · Google Cloud Introduction to Generative AI · University of Michigan Web Development and Coding · [HackerRank](https://www.hackerrank.com/profile/saiprasaad1999) (C, Java, JavaScript, React, MySQL) · Postman Student Expert
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Winner** - ACM Scarlet Hackathon (Flutter App)
-- 🥇 **Winner** - Drone Golf Challenge with Robolink CoDrone
-- 🥇 **Winner** - LeetCode Challenge by ACM
-- 🧑‍⚖️ **Judge** - HackMHS X
-
----
-
-## 📫 Let's Connect!
-
-- ✉️ [saiprasaad1999@gmail.com](mailto:saiprasaad1999@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saiprasaad)  
-- 🌐 [Portfolio](http://saiprasaad.com)
-
----
-
-> “Build with clarity, scale with purpose.” — Let's create something impactful together!
+Explore my work at **[saiprasaad.com](https://www.saiprasaad.com/)**, or ask Folio about it. Thanks for stopping by!
